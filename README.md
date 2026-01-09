@@ -74,7 +74,9 @@ Open-HR is a community-driven project, and we welcome contributions from everyon
 -   **Report a bug:** If you find a bug, please let us know by opening an issue.
 -   **Suggest a feature:** Have an idea for a new feature? We'd love to hear it!
 -   **Spread the word:** Help us grow the community by sharing Open-HR with your friends and colleagues.
+-   **Join our [Discord server](https://discord.com/invite/jc4xtF58Ve)** to chat with the team and other contributors.
 
+  
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-hr&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-hr&type=date&legend=top-left)
