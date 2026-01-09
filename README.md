@@ -61,6 +61,10 @@ Open-HR is a community-driven project, and we welcome contributions from everyon
 - **Suggest a feature:** Have an idea for a new feature? We'd love to hear it!
 - **Spread the word:** Help us grow the community by sharing Open-HR with your friends and colleagues.
 
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-eye&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-eye&type=date&legend=top-left)
+
 ## License
 
 Open-HR is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
