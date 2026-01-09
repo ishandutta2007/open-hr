@@ -63,7 +63,7 @@ Open-HR is a community-driven project, and we welcome contributions from everyon
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-eye&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-eye&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-hr&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-hr&type=date&legend=top-left)
 
 ## License
 
